@@ -16,7 +16,7 @@ function App() {
           <ImageCard
             title="London"
             text="London Royal Palace Tour"
-            imgSrc="/img/London.jpg"
+            imgSrc="./img/London.jpg"
             buttonLabel="Info"
           />
         </div>
@@ -24,7 +24,7 @@ function App() {
           <ImageCard
             title="Newyork"
             text="Newyork Statue of Liberty Tour"
-            imgSrc="/img/Newyork.jpg"
+            imgSrc="./img/Newyork.jpg"
             buttonLabel="Info"
           />
         </div>
@@ -32,7 +32,7 @@ function App() {
           <ImageCard
             title="Paris"
             text="Paris Efil Tower Tour"
-            imgSrc="/img/Paris.jpg"
+            imgSrc="./img/Paris.jpg"
             buttonLabel="Info"
           />
         </div>
@@ -40,7 +40,7 @@ function App() {
           <ImageCard
             title="Tokyo"
             text="Tokyo Sushi Tour"
-            imgSrc="/img/Tokyo.jpg"
+            imgSrc="./img/Tokyo.jpg"
             buttonLabel="Info"
           />
         </div>
